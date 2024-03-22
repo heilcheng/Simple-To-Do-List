@@ -35,4 +35,3 @@ Choose an option by entering its number.
 ## Requirements
 
 - Python 3
-```
