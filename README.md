@@ -14,26 +14,6 @@ Run the script in a Python environment:
 
 ```bash
 python To-Do-List.py
-
-Sure, here's a basic `README.md` for your To-Do List application:
-
-```markdown
-# To-Do List Application
-
-This is a simple command-line To-Do List application written in Python.
-
-## Features
-
-- Add tasks with a name, description, and due date
-- View all tasks with their names, descriptions, due dates, and the number of days left until the due date
-- Delete tasks by their number
-
-## Usage
-
-Run the script in a Python environment:
-
-```bash
-python To-Do-List.py
 ```
 
 You will be presented with a menu of options:
