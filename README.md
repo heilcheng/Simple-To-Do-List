@@ -56,5 +56,3 @@ Choose an option by entering its number.
 
 - Python 3
 ```
-
-This `README.md` provides a brief description of the application, lists its features, explains how to use it, and specifies the requirements for running it. You can expand it with more information as needed.
